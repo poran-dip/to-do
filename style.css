@@ -107,12 +107,7 @@ button:hover {
 
 .task-description:focus {
   border-color: rgba(255, 255, 255, 0.15);
-  background-color: rgba(
-    255,
-    255,
-    255,
-    0.02
-  );
+  background-color: rgba(255, 255, 255, 0.02);
 }
 
 .task-container.done .task-description {
